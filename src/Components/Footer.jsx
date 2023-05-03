@@ -71,9 +71,9 @@ function Footer() {
                 <div>
                     <h5>Connect With Us</h5>
                     <div>
-                        <a href="https://web.facebook.com/nabia.sheikh.1997/">
+                        <a href="#">
                                  <FaFacebookSquare className="connect text-dark" /></a>
-                             <a href="https://www.linkedin.com/">
+                             <a href="https://www.linkedin.com/in/smriti-priya-142541228/">
                                  <FaLinkedin className="connect text-dark" /></a>
                              <a href="https://www.instagram.com/">
                                  <AiFillInstagram className="connect text-dark" /></a>
@@ -84,7 +84,7 @@ function Footer() {
             </div>
             <div className="bg-dark text-white d-flex d-row justify-content-around align-items-center flex-wrap">
                 <div>
-                    <p className="text-center pt-3">&copy; 2021 Hotel Management App. All Right Reserved</p>
+                    <p className="text-center pt-3">&copy; 2023 Travelia By Smriti Priya (NIT Raipur). All Right Reserved</p>
                 </div>
                 <div>
                     <ul className="list-unstyled d-flex d-row flex-wrap">

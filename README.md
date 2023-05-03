@@ -1,18 +1,13 @@
 
-# Hotel Management System with Admin Panel.
+# Travelia is a Hotel Management System.
 
-This project is part of the Course of Web & Hybrid development which is taken at Grand Hackathon. 
+lorem ipsum
 
-## Repository of Admin Panel
 
-https://github.com/Nabia-Sheikh/hotel-management-admin
 ## Demo of Site
 
-https://hotel-management-by-nabia.netlify.app/
+(Link)
 
-## Demo of Admin Panel
-
-https://hotel-admin-by-nabia.netlify.app/
 
 ## Features
 
@@ -42,17 +37,8 @@ https://hotel-admin-by-nabia.netlify.app/
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/Nabia-Sheikh/hotel-management-system.git
-```
 
 Go to the project directory
-
-```bash
-  cd hotel-management-system
-```
 
 Install dependencies
 
